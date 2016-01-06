@@ -1,5 +1,6 @@
 # gblog
-It's always difficult to debug Html5 on your mobile phone. If you still use "alert" then you can try this utility.
+It's always difficult to debug Html5 on your mobile phone.<br>
+If you still use "alert", you can try this utility.<br>
 This utility can help you to print debug log on your mobile phone browser.
 
 ##How to use
