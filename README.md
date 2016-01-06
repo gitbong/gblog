@@ -4,7 +4,7 @@ If you still use "alert", you can try this utility.<br>
 This utility can help you to print debug log on your mobile phone browser.
 
 ##How to use
-1. Include with a script tag, make sure that you include jquery/zepto before include gblog.js;
+1. Include with a script tag, please make sure that include jquery/zepto before include gblog.js;
 2. Log your message like below:
 <pre>
 gblog("Hello you guys","I can help you to print your debug log on you mobile browser",...);
