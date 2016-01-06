@@ -1,5 +1,6 @@
 # gblog
-help you to print debug log on your mobile browser
+It's always difficult to debug Html5 on your mobile phone. If you still use "alert" then you can try this utility.
+This utility can help you to print debug log on your mobile phone browser.
 
 ##How to use
 1. Include with a script tag, make sure that you include jquery/zepto before include gblog.js;
