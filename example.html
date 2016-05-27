@@ -7,8 +7,10 @@
     <script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
     <script src="gblog.js"></script>
     <script>
+        var num = 0;
         setInterval(function () {
-            gblog(Math.random() * 10000);
+            gblog(num,Math.random() * 10000);
+            num++;
         },1000);
     </script>
 </head>
